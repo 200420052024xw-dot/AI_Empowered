@@ -1,0 +1,13 @@
+[agent]
+name = 'ai_commentator'
+display_name = 'AI评论员'
+version = '0.0.1'
+description = '针对帖子生成回复'
+author = 'wjf'
+
+[llm]
+model = 'deepseek-ai/DeepSeek-V3.2-Exp'
+
+[prompt]
+path = 'agent/commentator/prompt/prompt_comment.txt'
+
