@@ -1,0 +1,13 @@
+[agent]
+name = 'profile_generation'
+display_name = '用户画像生成'
+version = '0.0.1'
+description = '分析生成人物画像'
+author = 'wjf'
+
+[llm]
+model = 'deepseek-ai/DeepSeek-V3.2-Exp'
+
+[prompt]
+path = 'agent\profile_generation\prompt\prompt_profile.txt'
+
