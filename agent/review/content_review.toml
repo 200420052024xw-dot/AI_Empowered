@@ -1,0 +1,13 @@
+[agent]
+name = 'content_review'
+display_name = '评论审核'
+version = '0.0.1'
+description = '针对帖子进行内容审核'
+author = 'wjf'
+
+[llm]
+model = 'deepseek-ai/DeepSeek-V3.2-Exp'
+
+[prompt]
+path = 'agent/review/prompt/prompt_review.txt'
+
