@@ -5,7 +5,9 @@ from agent.review.content_review import content_review
 from service.tool import clean_result
 from pydantic import BaseModel
 from fastapi import FastAPI
+from typing import Optional
 import uvicorn
+import json
 import os
 
 app = FastAPI()
@@ -15,15 +17,23 @@ class UserInput(BaseModel):
     content:str
     profile:str
     information:str
-    file_path:str
+    file_path: Optional[str] = None
 
 @app.post("/commentator")
 def commentator(user:UserInput):
-    result = comment_create(user.content,user.profile,user.information)
-    commentator_result={
-        "ID":user.ID,
-        "comment":result
-    }
+    if(user.file_path is None):
+        result = comment_create(user.content,user.profile,user.information)
+        commentator_result={
+            "ID":user.ID,
+            "comment":result
+        }
+    else:
+        result = file_interpret(user.file_path)
+        comment_result=comment_create(user.content+result,user.profile,user.information)
+        commentator_result = {
+            "ID": user.ID,
+            "comment": comment_result
+        }
     return commentator_result
 
 @app.post("/profile_generation")
@@ -38,12 +48,23 @@ def profile_create(user:UserInput):
 
 @app.post("/review")
 def review_content(user:UserInput):
-    result = content_review(user.content,user.profile,user.information)
-    review_result={
-        "ID":user.ID,
-        "result":result['result'],
-        "explanation":result['explanation']
-    }
+    if (user.file_path is None):
+        result = content_review(user.content,user.profile,user.information)
+        result = json.loads(result)
+        review_result={
+            "ID":user.ID,
+            "result":result['result'],
+            "explanation":result['explanation']
+        }
+    else:
+        file_result = file_interpret(user.file_path)
+        result = content_review(user.content+file_result,user.profile,user.information)
+        result = json.loads(result)
+        review_result={
+            "ID":user.ID,
+            "result":result['result'],
+            "explanation":result['explanation']
+        }
     return review_result
 
 @app.post("/document_interpret")
