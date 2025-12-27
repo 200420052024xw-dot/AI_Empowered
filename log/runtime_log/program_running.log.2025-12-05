@@ -1,0 +1,303 @@
+2025-12-05 14:41:36,193 - INFO - 收到文件解读请求: C:\Users\mi\Desktop\示例.pdf,程序开始运行......
+2025-12-05 14:41:36,195 - INFO - 文件类型：pdf
+2025-12-05 14:56:43,065 - INFO - 收到文件解读请求: C:\Users\mi\Desktop\示例.pdf,程序开始运行......
+2025-12-05 14:56:43,066 - INFO - 文件类型：pdf
+2025-12-05 14:56:43,072 - INFO - PDF共有: 1 页
+2025-12-05 14:56:43,139 - INFO - 已经处理完PDF文件！
+2025-12-05 15:04:57,669 - INFO - 收到文件解读请求: C:\Users\mi\Desktop\示例.pdf,程序开始运行......
+2025-12-05 15:04:57,670 - INFO - 文件类型：pdf
+2025-12-05 15:04:57,674 - INFO - PDF共有: 1 页
+2025-12-05 15:04:57,723 - INFO - 已经处理完PDF文件！
+2025-12-05 15:04:59,656 - INFO - 进度: 1/1 页完成, 耗时 1.911 秒
+2025-12-05 15:04:59,657 - INFO - 模型读取总耗时: 1.91 秒
+2025-12-05 15:04:59,657 - INFO - 文字提取全部完成!
+2025-12-05 15:04:59,657 - INFO - ========================开始解析文件内容========================
+2025-12-05 15:05:04,266 - INFO - 解析结果:{
+  "summary": "该文件内容较少，无法生成有效摘要。",
+  "knowledge": [],
+  "target_audience": [],
+  "label": []
+}
+2025-12-05 15:05:04,268 - INFO - 总计运行时间: 6.59930930 秒
+2025-12-05 15:06:27,947 - INFO - 收到文件解读请求: C:\Users\mi\Desktop\关于印发《南昌市2023年度“十四五”市级乡村振兴重点帮扶村建设发展实施方案》的通知.pdf,程序开始运行......
+2025-12-05 15:06:27,948 - INFO - 文件类型：pdf
+2025-12-05 15:06:27,951 - INFO - PDF共有: 5 页
+2025-12-05 15:06:28,391 - INFO - 已经处理完PDF文件！
+2025-12-05 15:06:30,286 - INFO - 进度: 1/5 页完成, 耗时 1.895 秒
+2025-12-05 15:06:31,613 - INFO - 进度: 2/5 页完成, 耗时 1.326 秒
+2025-12-05 15:06:33,039 - INFO - 进度: 3/5 页完成, 耗时 1.426 秒
+2025-12-05 15:06:36,117 - INFO - 进度: 4/5 页完成, 耗时 3.078 秒
+2025-12-05 15:06:37,143 - INFO - 进度: 5/5 页完成, 耗时 1.025 秒
+2025-12-05 15:06:37,143 - INFO - 模型读取总耗时: 8.75 秒
+2025-12-05 15:06:37,143 - INFO - 文字提取全部完成!
+2025-12-05 15:06:37,144 - INFO - ========================开始解析文件内容========================
+2025-12-05 15:06:41,331 - INFO - 解析结果:{
+  "summary": "该文件内容较少，无法生成有效摘要。",
+  "knowledge": [],
+  "target_audience": [],
+  "label": []
+}
+2025-12-05 15:06:41,333 - INFO - 总计运行时间: 13.38616090 秒
+2025-12-05 15:07:32,761 - INFO - 收到文件解读请求: C:\Users\mi\Desktop\关于印发《南昌市2023年度“十四五”市级乡村振兴重点帮扶村建设发展实施方案》的通知.pdf,程序开始运行......
+2025-12-05 15:07:32,762 - INFO - 文件类型：pdf
+2025-12-05 15:07:32,765 - INFO - PDF共有: 5 页
+2025-12-05 15:07:33,264 - INFO - 已经处理完PDF文件！
+2025-12-05 15:07:35,747 - INFO - 进度: 1/5 页完成, 耗时 2.482 秒
+2025-12-05 15:07:37,765 - INFO - 进度: 2/5 页完成, 耗时 2.017 秒
+2025-12-05 15:07:39,353 - INFO - 进度: 3/5 页完成, 耗时 1.588 秒
+2025-12-05 15:07:41,147 - INFO - 进度: 4/5 页完成, 耗时 1.794 秒
+2025-12-05 15:07:44,316 - INFO - 进度: 5/5 页完成, 耗时 3.169 秒
+2025-12-05 15:07:44,317 - INFO - 模型读取总耗时: 11.05 秒
+2025-12-05 15:07:44,317 - INFO - 文字提取全部完成!
+2025-12-05 15:07:44,317 - INFO - pdf的解读结果:
+============第1页============
+{"error":{"message":"无效的令牌 (request id: 2025120515073493558713678481096)","type":"v_api_error"}}
+============第2页============
+{"error":{"message":"无效的令牌 (request id: 2025120515073720676302737055830)","type":"v_api_error"}}
+============第3页============
+{"error":{"message":"无效的令牌 (request id: 2025120515073888720670696886049)","type":"v_api_error"}}
+============第4页============
+{"error":{"message":"无效的令牌 (request id: 2025120515042723522305270278104)","type":"v_api_error"}}
+============第5页============
+{"error":{"message":"无效的令牌 (request id: 2025120515043084560627560357365)","type":"v_api_error"}}
+2025-12-05 15:07:44,318 - INFO - ========================开始解析文件内容========================
+2025-12-05 15:07:48,721 - INFO - 解析结果:{
+  "summary": "该文件内容较少，无法生成有效摘要。",
+  "knowledge": [],
+  "target_audience": [],
+  "label": []
+}
+2025-12-05 15:07:48,725 - INFO - 总计运行时间: 15.96413740 秒
+2025-12-05 15:10:11,503 - INFO - 收到文件解读请求: C:\Users\mi\Desktop\关于印发《南昌市2023年度“十四五”市级乡村振兴重点帮扶村建设发展实施方案》的通知.pdf,程序开始运行......
+2025-12-05 15:10:11,504 - INFO - 文件类型：pdf
+2025-12-05 15:10:11,508 - INFO - PDF共有: 5 页
+2025-12-05 15:10:12,014 - INFO - 已经处理完PDF文件！
+2025-12-05 15:10:21,091 - INFO - 进度: 1/5 页完成, 耗时 9.078 秒
+2025-12-05 15:10:37,610 - INFO - 进度: 2/5 页完成, 耗时 16.519 秒
+2025-12-05 15:10:53,864 - INFO - 进度: 3/5 页完成, 耗时 16.254 秒
+2025-12-05 15:11:05,790 - INFO - 进度: 4/5 页完成, 耗时 11.925 秒
+2025-12-05 15:11:11,673 - INFO - 进度: 5/5 页完成, 耗时 5.883 秒
+2025-12-05 15:11:11,673 - INFO - 模型读取总耗时: 59.66 秒
+2025-12-05 15:11:11,673 - INFO - 文字提取全部完成!
+2025-12-05 15:11:11,674 - INFO - pdf的解读结果:
+============第1页============
+{"choices":[{"finish_reason":"stop","index":0,"logprobs":null,"message":{"annotations":[],"content":"# 南昌市人民政府  \nThe People's Government of Nanchang Municipality  \n\n---\n\n## 关于印发《南昌市2023年度“十四五”市级乡村振兴重点帮扶村建设发展实施方案》的通知  \n\n**索引号：** A00890--2023-0010  \n**主题分类：** 综合政务  \n**发布机构：** 市乡村振兴局  \n**生成日期：** 2023-02-14  \n**文  件 号：** 洪巩固衔接小组办〔2023〕3号  \n**有效性：** 有效  \n**公开范围：** 面向全社会  \n**公开方式：** 主动公开  \n\n访问量：38  ","refusal":null,"role":"assistant"}}],"created":1764918615,"id":"chatcmpl-CjKFDOxLvDyHvxm04Mo2v308QqxPk","model":"gpt-4o-2024-11-20","object":"chat.completion","system_fingerprint":"fp_b54fe76834","usage":{"completion_tokens":157,"completion_tokens_details":{"accepted_prediction_tokens":0,"audio_tokens":0,"reasoning_tokens":0,"rejected_prediction_tokens":0},"prompt_tokens":1031,"prompt_tokens_details":{"audio_tokens":0,"cached_tokens":0},"total_tokens":1188}}
+============第2页============
+{"choices":[{"finish_reason":"length","index":0,"logprobs":null,"message":{"annotations":[],"content":"# 关于印发《南昌市2023年度“十四五”市级乡村振兴重点帮扶村建设发展实施方案》的通知\n\n南昌县、进贤县、安义县、新建区，湾里管理局巩固拓展脱贫攻坚成果同乡村振兴有效衔接工作领导小组：\n\n现将《南昌市2023年度“十四五”市级乡村振兴重点帮扶村建设发展实施方案》印发给你们，请认真组织实施。\n\n南昌市巩固拓展脱贫攻坚成果同乡村振兴有效衔接工作领导小组办公室  \n2023年2月14日  \n\n---\n\n## 南昌市2023年度“十四五”市级乡村振兴重点帮扶村建设发展实施方案  \n\n根据《南昌市“十四五”市级乡村振兴重点帮扶村工作实施方案》文件要求，为扎实做好2023年18个“十四五”市级乡村振兴重点帮扶村（以下简称“重点村”）建设发展，特制定本实施方案。  \n\n### 一、建设目标  \n\n重点村建设坚持“先易后难、分步建设、连片打造”的原则，按照全市“两整治一提升”专项行动的标准和要求，在村庄建设发展过程中，不追求全面覆盖、不搞“铺摊面","refusal":null,"role":"assistant"}}],"created":1764918627,"id":"chatcmpl-CjKFPppsuQelcocLfQFTwOvKVIIhR","model":"gpt-4o-2024-11-20","object":"chat.completion","system_fingerprint":"fp_b54fe76834","usage":{"completion_tokens":300,"completion_tokens_details":{"accepted_prediction_tokens":0,"audio_tokens":0,"reasoning_tokens":0,"rejected_prediction_tokens":0},"prompt_tokens":1031,"prompt_tokens_details":{"audio_tokens":0,"cached_tokens":0},"total_tokens":1331}}
+============第3页============
+{"choices":[{"finish_reason":"length","index":0,"logprobs":null,"message":{"annotations":[],"content":"# （一）编制村庄规划  \n重点村五年规划要坚持“一体规划,近期远程,分步实施”的原则,注重保持村庄自然生态环境、乡土气息、优秀传统文化、文物保护,明确村庄总体规划,因地制宜界定乡村建设规划范围,严格保护农业生产空间和乡村生态空间,不搞大社区和违背村民意愿的大拆大建,不搞“村一面”,不操高景观、不搞脱离实际的面子和形象工程,引导村民参与规划编制,聘请城乡规划乙级以上资质、有相关成功案例的规划团队,科学编制切合实际、能够执行的五年建设规划。原则上“十四五”期间,重点村时间工作重点集中于提升人居环境和路域环境,同步谋划产业发展,后期重点发展多样特色产业;对于有一定工业基础的,可提前谋划改造,确保用于产业小路改造比例不少于整个改造总量的40%。  \n\n# （二）整治村庄环境  \n严格按照《南昌市农村农林“两整治一提升”专项行动三年计划(2022-2024)》明确的“一整四化”和“八有”要求开展农村人居环境整治,大力开展农村","refusal":null,"role":"assistant"}}],"created":1764918642,"id":"chatcmpl-CjKFeqUXl29IfiSSbQuxn68csqAbl","model":"gpt-4o-2024-11-20","object":"chat.completion","system_fingerprint":"fp_b54fe76834","usage":{"completion_tokens":300,"completion_tokens_details":{"accepted_prediction_tokens":0,"audio_tokens":0,"reasoning_tokens":0,"rejected_prediction_tokens":0},"prompt_tokens":1031,"prompt_tokens_details":{"audio_tokens":0,"cached_tokens":0},"total_tokens":1331}}
+============第4页============
+{"choices":[{"finish_reason":"length","index":0,"logprobs":null,"message":{"annotations":[],"content":"# （一）加强组织领导\n重点村建设按照“市级指导、县区主导、乡镇实施”的原则组织实施。相关县区党委、政府要细化落实中央《乡村振兴责任制实施办法》相关要求，建立健全乡村振兴责任体系，健全强有力的乡村振兴推进机制，推动形成完全社会合力促振兴的工作格局。要将重点村建设纳入各地“两落实一提升”专项行动中统筹谋划、部署推进；要按照工作安排精准摸排检查工作推进质量，加大对年度重点项目建设的推进力量协调解决问题。相关乡镇党委、政府主要负责同志要落实“一级指挥棒”责任，全面抓好各项任务落实。驻村第一书记和工作队员发挥主观能动性，配合村两委班子做好重点村建设和积累。\n\n# （二）严格督查考核\n重点村建设的督导考核覆盖省局和纪委监委合署“两落实一提升”专项行动的调查、督导、巡行体系，实行“每周调度、两周通报、定期督察、双月察看、年度巡行”工作推进机制。市级层面每年组织人大代表、政协委员对年度项目进行全覆盖调研，视察并做出","refusal":null,"role":"assistant"}}],"created":1764918657,"id":"chatcmpl-CjKFtK7ns0yOrvuGlfvIRmmvkdN6g","model":"gpt-4o-2024-11-20","object":"chat.completion","system_fingerprint":"fp_b54fe76834","usage":{"completion_tokens":300,"completion_tokens_details":{"accepted_prediction_tokens":0,"audio_tokens":0,"reasoning_tokens":0,"rejected_prediction_tokens":0},"prompt_tokens":1031,"prompt_tokens_details":{"audio_tokens":0,"cached_tokens":0},"total_tokens":1331}}
+============第5页============
+{"choices":[{"finish_reason":"stop","index":0,"logprobs":null,"message":{"annotations":[],"content":"## 网站信息\n\n主办：南昌市人民政府办公室  \n承办：南昌市数字科学研究中心  \n地址：南昌市红谷滩区市政府北四楼  \n\n政府网站标识码：3601000001  \n赣ICP备17015617号  \n赣公网安备 36010802000056号  \n\n建议使用1920*1080分辨率浏览器","refusal":null,"role":"assistant"}}],"created":1764918668,"id":"chatcmpl-CjKG48BJn2cza4lGai18Jcj8G0J51","model":"gpt-4o-2024-11-20","object":"chat.completion","system_fingerprint":"fp_b54fe76834","usage":{"completion_tokens":86,"completion_tokens_details":{"accepted_prediction_tokens":0,"audio_tokens":0,"reasoning_tokens":0,"rejected_prediction_tokens":0},"prompt_tokens":1031,"prompt_tokens_details":{"audio_tokens":0,"cached_tokens":0},"total_tokens":1117}}
+2025-12-05 15:11:11,677 - INFO - ========================开始解析文件内容========================
+2025-12-05 15:11:29,086 - INFO - 解析结果:{
+  "summary": "南昌市2023年度乡村振兴重点帮扶村实施方案，聚焦村庄规划、环境整治和产业发展。",
+  "knowledge": [
+    "重点村建设坚持‘先易后难、分步建设、连片打造’原则",
+    "实施村庄规划需注重生态保护、文化传承和村民参与",
+    "环境整治遵循‘两整治一提升’专项行动标准",
+    "建立‘市级指导、县区主导、乡镇实施’的组织领导体系",
+    "实行‘每周调度、定期督察’的严格督查考核机制"
+  ],
+  "target_audience": [
+    "公共管理专业学生",
+    "乡村振兴研究者",
+    "地方政策执行人员",
+    "农村发展规划相关学习者"
+  ],
+  "label": [
+    "乡村振兴",
+    "公共政策",
+    "乡村规划",
+    "环境整治",
+    "政府治理"
+  ]
+}
+2025-12-05 15:11:29,089 - INFO - 总计运行时间: 77.58615420 秒
+2025-12-05 15:12:11,944 - INFO - 收到文件解读请求: C:\Users\mi\Desktop\关于印发《南昌市2023年度“十四五”市级乡村振兴重点帮扶村建设发展实施方案》的通知.pdf,程序开始运行......
+2025-12-05 15:12:11,946 - INFO - 文件类型：pdf
+2025-12-05 15:12:11,950 - INFO - PDF共有: 5 页
+2025-12-05 15:12:12,488 - INFO - 已经处理完PDF文件！
+2025-12-05 15:12:21,087 - INFO - 进度: 1/5 页完成, 耗时 8.598 秒
+2025-12-05 15:12:36,055 - INFO - 进度: 2/5 页完成, 耗时 14.968 秒
+2025-12-05 15:12:50,162 - INFO - 进度: 3/5 页完成, 耗时 14.106 秒
+2025-12-05 15:13:03,804 - INFO - 进度: 4/5 页完成, 耗时 13.642 秒
+2025-12-05 15:13:09,641 - INFO - 进度: 5/5 页完成, 耗时 5.837 秒
+2025-12-05 15:13:09,642 - INFO - 模型读取总耗时: 57.15 秒
+2025-12-05 15:13:09,642 - INFO - 文字提取全部完成!
+2025-12-05 15:13:09,642 - INFO - pdf的解读结果:
+============第1页============
+{'choices': [{'finish_reason': 'stop', 'index': 0, 'logprobs': None, 'message': {'annotations': [], 'content': '# 关于印发《南昌市2023年度“十四五”市级乡村振兴重点帮扶村建设发展实施方案》的通知\n\n洪巩固衔接小组办〔2023〕3号  \n\n---\n\n## 文件信息  \n- **索引号**：A00890--2023-0010  \n- **主题分类**：综合政务  \n- **发布机构**：市乡村振兴局  \n- **生成日期**：2023-02-14  \n- **文件编号**：  \n- **有效性**：有效  \n- **公开范围**：面向全社会  \n- **公开方式**：主动公开  \n\n---\n\n访问量：38', 'refusal': None, 'role': 'assistant'}}], 'created': 1764918736, 'id': 'chatcmpl-CjKHANfTATu5PxRnEs8QR4lnzsxt0', 'model': 'gpt-4o-2024-11-20', 'object': 'chat.completion', 'system_fingerprint': 'fp_b54fe76834', 'usage': {'completion_tokens': 148, 'completion_tokens_details': {'accepted_prediction_tokens': 0, 'audio_tokens': 0, 'reasoning_tokens': 0, 'rejected_prediction_tokens': 0}, 'prompt_tokens': 1031, 'prompt_tokens_details': {'audio_tokens': 0, 'cached_tokens': 0}, 'total_tokens': 1179}}
+============第2页============
+{'choices': [{'finish_reason': 'length', 'index': 0, 'logprobs': None, 'message': {'annotations': [], 'content': '# 关于印发《南昌市2023年度“十四五”市级乡村振兴重点帮扶村建设发展实施方案》的通知\n\n南昌县、进贤县、安义县、新建区、湾里管理局巩固拓展脱贫攻坚成果同乡村振兴有效衔接工作领导小组：\n\n现将《南昌市2023年度“十四五”市级乡村振兴重点帮扶村建设发展实施方案》印发给你们，请认真组织实施。\n\n南昌市巩固拓展脱贫攻坚成果同乡村  \n振兴有效衔接工作领导小组办公室  \n\n2023年2月14日  \n\n## 南昌市2023年度“十四五”市级乡村振兴重点帮扶村建设发展实施方案  \n\n根据《南昌市“十四五”市级乡村振兴重点帮扶村工作实施方案》文件要求，为扎实做好2023年18个“十四五”市级乡村振兴重点帮扶村（以下简称“重点村”）建设发展，特制定本实施方案。  \n\n### 一、建设目标  \n\n重点村建设坚持“先易后难、分步建设、连片打造”的原则，按照全市“两监控一提升”专项行动的框框和要求，在村庄建设发展过程中，不追求全面覆盖、不搞“大锅饭”，', 'refusal': None, 'role': 'assistant'}}], 'created': 1764918745, 'id': 'chatcmpl-CjKHJGSHKEeFflehfWR7MhP5Z7lic', 'model': 'gpt-4o-2024-11-20', 'object': 'chat.completion', 'system_fingerprint': 'fp_b54fe76834', 'usage': {'completion_tokens': 300, 'completion_tokens_details': {'accepted_prediction_tokens': 0, 'audio_tokens': 0, 'reasoning_tokens': 0, 'rejected_prediction_tokens': 0}, 'prompt_tokens': 1031, 'prompt_tokens_details': {'audio_tokens': 0, 'cached_tokens': 0}, 'total_tokens': 1331}}
+============第3页============
+{'choices': [{'finish_reason': 'length', 'index': 0, 'logprobs': None, 'message': {'annotations': [], 'content': '# (一)编制村庄规划  \n重点村五年规划要坚持“一体规划,细化远规,分步实施”的原则,注重保持村庄自然生态环境、乡土气息、优秀传统文化、文物保护,明确村庄总体规划,因地制宜界定乡村建设规划范围,严格保护农业生产空间和乡村生态空间,不搞大社区和连村村民意愿的大拆大建,不搞“村一面”,不堪高端亮经济面子和形象工程。引导村民参与规划编制,聘请城乡规划乙级以上资质,有相关成功案例的规划团队,科学编制切合实际、能够执行的五年建设规划。原则上“十四五”期间,重点村时村工作重点集中于提升人居环境和路域环境,同步谋划产业发展,后期重点发展乡村特色产业;对于有一定产业基础的,可提前谋划实施,确保用于产业的资金比例不低于整治资金的40%。  \n\n## (二)整治村庄环境  \n严格按照《南昌市农村农业“两整合一提升”专项行动三年计划(2022-2024)》明确的“六整四化”和“八有”要求开展农村人居环境整治,大力开展农村塑料垃圾污染治理', 'refusal': None, 'role': 'assistant'}}], 'created': 1764918761, 'id': 'chatcmpl-CjKHZ0wBIX42nsMrpkVaNOf4HtONR', 'model': 'gpt-4o-2024-11-20', 'object': 'chat.completion', 'system_fingerprint': 'fp_b54fe76834', 'usage': {'completion_tokens': 300, 'completion_tokens_details': {'accepted_prediction_tokens': 0, 'audio_tokens': 0, 'reasoning_tokens': 0, 'rejected_prediction_tokens': 0}, 'prompt_tokens': 1031, 'prompt_tokens_details': {'audio_tokens': 0, 'cached_tokens': 0}, 'total_tokens': 1331}}
+============第4页============
+{'choices': [{'finish_reason': 'length', 'index': 0, 'logprobs': None, 'message': {'annotations': [], 'content': '# （一）加强组织领导  \n\n重点村建设按照“市级指导、县区主导、乡镇实施”的原则组织实施。相关县区党委、政府要贯彻落实中央《乡村振兴责任制实施办法》相关要求，建立健全乡村振兴责任体系，健全“五方分约、多频次推进机制”，推动形成完全合力促进重点乡村振兴的工作格局。要将重点村建设纳入各地“两整治一提升”专项行动中统筹谋划、部署、统一推动；要按照工作科技规划要求检查工作进度质量，加大对年度重点项目建设的推进力量协调解决问题。相关乡镇党委、政府主要负责同志要落实“一级指挥棒”责任，全面抓好各项任务落实。驻村第一书记和工作队要发挥主观能动性，配合村两委班子做好重点村建设和发展。  \n\n# （二）严格督导考核  \n\n重点村建设的督导考核必须全覆盖输入全市“两整治一提升”专项行动的调度、督导、巡行体系，实行“每周调度、两周通报、定期督导、双月察看、年度巡看”工作推进机制。市级层面每年组织人大代表、政协委员对年度项目进行全覆盖调研，视察并做出', 'refusal': None, 'role': 'assistant'}}], 'created': 1764918774, 'id': 'chatcmpl-CjKHmlmk7KzL5w9BcEGn4b0UqYsA9', 'model': 'gpt-4o-2024-11-20', 'object': 'chat.completion', 'system_fingerprint': 'fp_b54fe76834', 'usage': {'completion_tokens': 300, 'completion_tokens_details': {'accepted_prediction_tokens': 0, 'audio_tokens': 0, 'reasoning_tokens': 0, 'rejected_prediction_tokens': 0}, 'prompt_tokens': 1031, 'prompt_tokens_details': {'audio_tokens': 0, 'cached_tokens': 0}, 'total_tokens': 1331}}
+============第5页============
+{'choices': [{'finish_reason': 'stop', 'index': 0, 'logprobs': None, 'message': {'annotations': [], 'content': '```\n网站地图  关于我们  隐私声明  \n\n主办：南昌市人民政府办公室  \n承办：南昌市数字科学研究中心  \n地址：南昌市红谷滩区市政府北四楼  \n\n政府网站标识码：3601000001  \n赣ICP备17015617号  \n赣公网安备 36010802000056号  \n建议使用1920*1080分辨率浏览器  \n```', 'refusal': None, 'role': 'assistant'}}], 'created': 1764918786, 'id': 'chatcmpl-CjKHyARtfZcLTV0HdDuBlTUYdTrpk', 'model': 'gpt-4o-2024-11-20', 'object': 'chat.completion', 'system_fingerprint': 'fp_b54fe76834', 'usage': {'completion_tokens': 97, 'completion_tokens_details': {'accepted_prediction_tokens': 0, 'audio_tokens': 0, 'reasoning_tokens': 0, 'rejected_prediction_tokens': 0}, 'prompt_tokens': 1031, 'prompt_tokens_details': {'audio_tokens': 0, 'cached_tokens': 0}, 'total_tokens': 1128}}
+2025-12-05 15:13:09,644 - INFO - ========================开始解析文件内容========================
+2025-12-05 15:13:26,639 - INFO - 解析结果:{
+  "summary": "南昌市2023年乡村振兴重点帮扶村实施方案，聚焦18个重点村规划建设与产业发展。",
+  "knowledge": [
+    "重点村建设坚持'先易后难、分步建设、连片打造'原则，不追求全面覆盖",
+    "村庄规划需保护生态环境和传统文化，确保产业资金比例不低于整治资金40%",
+    "建立'市级指导、县区主导、乡镇实施'的三级组织领导体系",
+    "实行'每周调度、定期督导、年度巡看'的常态化考核机制"
+  ],
+  "target_audience": [
+    "公共管理专业学生",
+    "乡村振兴研究者",
+    "基层政府工作人员",
+    "农村发展规划相关学习者"
+  ],
+  "label": [
+    "乡村振兴政策",
+    "乡村规划",
+    "公共管理",
+    "农村发展",
+    "政府治理"
+  ]
+}
+2025-12-05 15:13:26,642 - INFO - 总计运行时间: 74.69836890 秒
+2025-12-05 15:40:45,234 - INFO - 收到文件解读请求: C:\Users\mi\Desktop\关于印发《南昌市2023年度“十四五”市级乡村振兴重点帮扶村建设发展实施方案》的通知.pdf,程序开始运行......
+2025-12-05 15:40:45,235 - INFO - 文件类型：pdf
+2025-12-05 15:40:45,239 - INFO - PDF共有: 5 页
+2025-12-05 15:40:45,763 - INFO - 已经处理完PDF文件！
+2025-12-05 15:40:54,459 - INFO - 进度: 1/5 页完成, 耗时 8.696 秒
+2025-12-05 15:41:03,265 - INFO - 进度: 2/5 页完成, 耗时 8.806 秒
+2025-12-05 15:41:13,402 - INFO - 进度: 3/5 页完成, 耗时 10.136 秒
+2025-12-05 15:41:22,905 - INFO - 进度: 4/5 页完成, 耗时 9.503 秒
+2025-12-05 15:41:27,841 - INFO - 进度: 5/5 页完成, 耗时 4.935 秒
+2025-12-05 15:41:27,842 - INFO - 模型读取总耗时: 42.08 秒
+2025-12-05 15:41:27,842 - INFO - 文字提取全部完成!
+2025-12-05 15:41:27,842 - INFO - pdf的解读结果:
+============第1页============
+{'id': 'chatcmpl-CjKinmFnZgnNXrDEWUEU2BYbH0iBu', 'object': 'chat.completion', 'created': 1764920449, 'model': 'gpt-4o-2024-08-06', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': '# 南昌市人民政府\n\n**索 引 号：** A00890--2023-0010  \n**主题分类：** 综合政务  \n**发布机构：** 市乡村振兴局  \n**生成日期：** 2023-02-14  \n**文件编号：** -  \n**有效性：** 有效  \n**公开范围：** 面向全社会  \n**公开方式：** 主动公开  \n\n## 关于印发《南昌市2023年度“十四五”市级乡村振兴重点帮扶村建设发展实施方案》的通知\n\n洪巩固衔接小组办〔2023〕3号', 'refusal': None, 'annotations': []}, 'logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 1031, 'completion_tokens': 141, 'total_tokens': 1172, 'prompt_tokens_details': {'cached_tokens': 0, 'audio_tokens': 0}, 'completion_tokens_details': {'reasoning_tokens': 0, 'audio_tokens': 0, 'accepted_prediction_tokens': 0, 'rejected_prediction_tokens': 0}}, 'system_fingerprint': 'fp_4a331a0222'}
+============第2页============
+{'id': 'chatcmpl-CjKivrOBIa8dJrXKj8sTHK0LnQdgg', 'object': 'chat.completion', 'created': 1764920457, 'model': 'gpt-4o-2024-08-06', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': '# 关于印发《南昌市2023年度 “十四五” 市级乡村振兴重点帮扶村建设发展实施方案》的通知\n\n南昌县、进贤县、安义县、新建区，湾里管理局巩固拓展脱贫攻坚成果同乡村振兴有效衔接工作领导小组：\n\n现将《南昌市2023年度 “十四五” 市级乡村振兴重点帮扶村建设发展实施方案》印发给你们,请认真组织实施。\n\n南昌市巩固拓展脱贫攻坚成果同乡村\n\n振兴有效衔接工作领导小组办公室\n\n2023年2月14日\n\n## 南昌市2023年度 “十四五” 市级乡村振兴重点帮扶村建设发展实施方案\n\n根据《南昌市 “十四五” 市级乡村振兴重点帮扶村工作实施方案》文件要求,为扎实做好2023年18个 “十四五” 市级乡村振兴重点帮扶村(以下简称 “重点村” )建设发展,特制定本实施方案。\n\n### 一、建设目标\n\n重点村建设坚持“先易后难、分步建设、连片打造”的原则,按照全市“两整治一提升”专项行动的标准和要求,在村庄建设发展过程中,不追求全覆盖,不搞“', 'refusal': None, 'annotations': []}, 'logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 1031, 'completion_tokens': 300, 'total_tokens': 1331, 'prompt_tokens_details': {'cached_tokens': 0, 'audio_tokens': 0}, 'completion_tokens_details': {'reasoning_tokens': 0, 'audio_tokens': 0, 'accepted_prediction_tokens': 0, 'rejected_prediction_tokens': 0}}, 'system_fingerprint': 'fp_4a331a0222'}
+============第3页============
+{'id': 'chatcmpl-CjKj3MBKQGJPTplpo9v0zoalgDATo', 'object': 'chat.completion', 'created': 1764920465, 'model': 'gpt-4o-2024-08-06', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': '（一）编制村庄规划。重点村五年规划要坚持“一体规划,近期远程,分步实施”的原则,注重保持村庄自然生态环境,乡土气息,优秀传统文化。文物保护,明确村庄总体规划,因地制宜界定乡村建设规模范围,严格保护农业生产空间和乡村生态空间,不搞大社区和违背村民意愿的大拆大建,不搞“村一面”,不推销景点、不到搬家和商圈的面子和形象工程,引导村民参与规划编制,聘请城乡规划及乡级认定资质,有相关成功案例的规划团队,科学编制切合实际、能够执行的五年建设规划。原则上“十四五”期间,重点村助工作量心集中于提升人居环境和路域环境,同时注视商业发展,局部重点发展乡村特色产业;对于有一定产业基础的,可提前谋划实施,确保用于产业的资金比例不低于整体资金的40%。\n\n（二）整治村庄环境。严格按照《南昌市农业农村“两整治一提升”专项行动三年计划(2022-2024)》明确的“一整四化”和“八有”要求开展农村人居环境整治,大力开展农村塑料垃圾', 'refusal': None, 'annotations': []}, 'logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 1031, 'completion_tokens': 300, 'total_tokens': 1331, 'prompt_tokens_details': {'cached_tokens': 0, 'audio_tokens': 0}, 'completion_tokens_details': {'reasoning_tokens': 0, 'audio_tokens': 0, 'accepted_prediction_tokens': 0, 'rejected_prediction_tokens': 0}}, 'system_fingerprint': 'fp_4a331a0222'}
+============第4页============
+{'id': 'chatcmpl-CjKjEDF8P5WIJj2nBnNf0qA6A7qIP', 'object': 'chat.completion', 'created': 1764920476, 'model': 'gpt-4o-2024-08-06', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': '# 加强组织领导\n\n重点村建设按照“市级指导、县区主导、乡镇实施”的原则组织实施。相关县区党委、政府要细落实中央《乡村振兴责任制实施办法》相关要求,建立健全乡村振兴责任体系,健全百分制考核推动机制,推动形成党委领导、政府主导的社会合力促进村振兴的工作格局。要将重点村建设纳入各地“腾笼换鸟”专项行动中,统筹“嵌秒、窄巷、疏罐、统推”活动;要按照工作安排提前摸排检查工作进度质量,加大对年度重点项目建设的推进力度,协调解决问题。相关乡镇党委、政府主要负责同志要落实“一级指挥棒”责任,全面抓好各项任务落实。驻村第一书记和工作队要发挥重要推进机制,配合村两委班子做好重点村建设和成果。\n\n# 严肃督查考核\n\n重点村建设的督查考核内容被全面纳入市委“腾鸡换鸟”专项行动的督查、督导、巡察体系,实行“每周调度、两周通报、定期督导、双月察看、年度巡看”工作推进机制。市级层面每年组织人大代表、政协委员对', 'refusal': None, 'annotations': []}, 'logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 1031, 'completion_tokens': 300, 'total_tokens': 1331, 'prompt_tokens_details': {'cached_tokens': 0, 'audio_tokens': 0}, 'completion_tokens_details': {'reasoning_tokens': 0, 'audio_tokens': 0, 'accepted_prediction_tokens': 0, 'rejected_prediction_tokens': 0}}, 'system_fingerprint': 'fp_4a331a0222'}
+============第5页============
+{'id': 'chatcmpl-CjKjNuWntX7W9cymR6PDqxqe5ezwW', 'object': 'chat.completion', 'created': 1764920485, 'model': 'gpt-4o-2024-08-06', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': '```\n县区政府网站\n\n网站地图 关于我们 隐私声明\n\n主办：南昌市人民政府办公室\n承办：南昌市数字科学研究中心\n地址：南昌市红谷滩区市政府北四楼\n\n政府网站标识码：3601000001\n赣ICP备17015617号\n赣公网安备 36010802000056号\n建议使用1920*1080分辨率浏览器\n```', 'refusal': None, 'annotations': []}, 'logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 1031, 'completion_tokens': 100, 'total_tokens': 1131, 'prompt_tokens_details': {'cached_tokens': 0, 'audio_tokens': 0}, 'completion_tokens_details': {'reasoning_tokens': 0, 'audio_tokens': 0, 'accepted_prediction_tokens': 0, 'rejected_prediction_tokens': 0}}, 'system_fingerprint': 'fp_4a331a0222'}
+2025-12-05 15:41:27,843 - INFO - ========================开始解析文件内容========================
+2025-12-05 15:41:41,341 - INFO - 解析结果:{
+  "summary": "南昌市2023年度乡村振兴重点帮扶村实施方案，旨在通过规划建设、环境整治等推进乡村发展。",
+  "knowledge": ["村庄规划坚持一体规划、分步实施原则，注重生态和文化保护", "环境整治遵循'两整治一提升'专项行动标准，开展人居和路域环境治理", "产业资金比例要求不低于40%，支持乡村特色产业发展", "实施'市级指导、县区主导、乡镇实施'的组织领导机制", "建立督查考核体系，包括每周调度和定期督导机制"],
+  "target_audience": ["公共管理专业学生", "乡村振兴政策研究者", "地方政府工作人员", "农村发展项目规划者"],
+  "label": ["乡村振兴政策", "农村规划", "公共管理", "环境整治", "政府实施方案"]
+}
+2025-12-05 15:41:41,344 - INFO - 总计运行时间: 56.11021990 秒
+2025-12-05 15:53:33,761 - INFO - 收到文件解读请求: C:\Users\mi\Desktop\关于印发《南昌市2023年度“十四五”市级乡村振兴重点帮扶村建设发展实施方案》的通知.pdf,程序开始运行......
+2025-12-05 15:53:33,762 - INFO - 文件类型：pdf
+2025-12-05 15:53:33,767 - INFO - PDF共有: 5 页
+2025-12-05 15:53:34,305 - INFO - 已经处理完PDF文件！
+2025-12-05 15:53:42,149 - INFO - 进度: 1/5 页完成, 耗时 7.844 秒
+2025-12-05 15:53:50,342 - INFO - 进度: 2/5 页完成, 耗时 8.193 秒
+2025-12-05 15:54:00,344 - INFO - 进度: 3/5 页完成, 耗时 10.002 秒
+2025-12-05 15:54:09,801 - INFO - 进度: 4/5 页完成, 耗时 9.456 秒
+2025-12-05 15:54:14,510 - INFO - 进度: 5/5 页完成, 耗时 4.709 秒
+2025-12-05 15:54:14,510 - INFO - 模型读取总耗时: 40.21 秒
+2025-12-05 15:54:14,511 - INFO - 文字提取全部完成!
+2025-12-05 15:54:14,511 - INFO - pdf的解读结果:
+============第1页============
+{'id': 'chatcmpl-CjKvCgLVfRdNaKy66Fu5Mn7ud5qCW', 'object': 'chat.completion', 'created': 1764921218, 'model': 'gpt-4o-2024-08-06', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': '# 关于印发《南昌市2023年度“十四五”市级乡村振兴重点帮扶村建设发展实施方案》的通知\n\n索引号：A00890--2023-0010  \n主题分类：综合政务  \n发布机构：市乡村振兴局  \n生成日期：2023-02-14  \n文件编号：  \n有效性：有效  \n公开范围：面向全社会  \n公开方式：主动公开  \n\n洪巷固倍接小组办〔2023〕3号  ', 'refusal': None, 'annotations': []}, 'logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 1031, 'completion_tokens': 113, 'total_tokens': 1144, 'prompt_tokens_details': {'cached_tokens': 0, 'audio_tokens': 0}, 'completion_tokens_details': {'reasoning_tokens': 0, 'audio_tokens': 0, 'accepted_prediction_tokens': 0, 'rejected_prediction_tokens': 0}}, 'system_fingerprint': 'fp_4a331a0222'}
+============第2页============
+{'id': 'chatcmpl-CjKvHh7JmXyPm9ifruWOQJ9vSeDNM', 'object': 'chat.completion', 'created': 1764921223, 'model': 'gpt-4o-2024-08-06', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': '# 关于印发《南昌市2023年度“十四五”市级乡村振兴重点帮扶村建设发展实施方案》的通知\n\n南昌县、进贤县、安义县、新建区、湾里管理局巩固拓展脱贫攻坚成果同乡村振兴有效衔接工作领导小组：\n\n现将《南昌市2023年度“十四五”市级乡村振兴重点帮扶村建设发展实施方案》印发给你们，请认真组织实施。\n\n南昌市巩固拓展脱贫攻坚成果同乡村\n\n振兴有效衔接工作领导小组办公室\n\n2023年2月14日\n\n## 南昌市2023年度“十四五”市级乡村振兴重点帮扶村建设发展实施方案\n\n根据《南昌市“十四五”市级乡村振兴重点帮扶村工作实施方案》文件要求，为扎实做好2023年18个“十四五”市级乡村振兴重点帮扶村（以下简称“重点村”）建设发展，特制定本实施方案。\n\n### 一、建设目标\n\n重点村建设坚持“先易后难、分步建设、连片打造”的原则，按照全市“两整治一提升”专项行动的标准和要求，在村庄建设发展过程中，不追求全面覆盖、南报“耻颜面', 'refusal': None, 'annotations': []}, 'logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 1031, 'completion_tokens': 300, 'total_tokens': 1331, 'prompt_tokens_details': {'cached_tokens': 0, 'audio_tokens': 0}, 'completion_tokens_details': {'reasoning_tokens': 0, 'audio_tokens': 0, 'accepted_prediction_tokens': 0, 'rejected_prediction_tokens': 0}}, 'system_fingerprint': 'fp_4a331a0222'}
+============第3页============
+{'id': 'chatcmpl-CjKvSspKi8pP2zZP9jD4BLzJVMLDk', 'object': 'chat.completion', 'created': 1764921234, 'model': 'gpt-4o-2024-08-06', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': '# 编制村庄规划\n\n(一)编制村庄规划。重点村五年规划要坚持 “一体规划,近期远程,分步实施” 的原则,注重保持村庄自然生态环境、乡土气息、优美传统文化、文物保护,明确村庄总体规划,因地制宜界定乡村建设规划范围,严格保护农业生产空间和乡村生态空间,不搞大社区和违背村民意愿的大拆大建,不搞“十村一面”不堪负景、不搞脱离实际的面子和形象工程,引导村民参与规划编制,聘请地方乡规划专家以及总设计师,有相应成功案例的规划团队,科学编制切合实际、能够执行的五年建设规划。原则上 “十四五” 期间,重点村期盼工作重点心中提开什么居环境和路域绿化、同步提高事业发展,后期重点发展乡村特色产业;对于有一定产业基础的,可提前谋划实施,确保用于产业间的资金比例不低于整体资金的40%。\n\n(二)整治村庄环境。严格按照《南昌市农业农村“两整治一提升” 专项行动三年计划(2022-2024)》明细的 “一整四化” 和 “八有” 要求', 'refusal': None, 'annotations': []}, 'logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 1031, 'completion_tokens': 300, 'total_tokens': 1331, 'prompt_tokens_details': {'cached_tokens': 0, 'audio_tokens': 0}, 'completion_tokens_details': {'reasoning_tokens': 0, 'audio_tokens': 0, 'accepted_prediction_tokens': 0, 'rejected_prediction_tokens': 0}}, 'system_fingerprint': 'fp_4a331a0222'}
+============第4页============
+{'id': 'chatcmpl-CjKvayTEj5JJKJ8sBfWvCUVhzx2AS', 'object': 'chat.completion', 'created': 1764921242, 'model': 'gpt-4o-2024-08-06', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': '# （一）加强组织领导。\n重点村建设按照“市级指导、县区主导、乡镇实施”的原则组织实施。相关县区党委、政府要围绕落实中央《乡村振兴责任制实施办法》相关要求,建立健全乡村振兴责任体系,健全自上而下分级乡村振兴推进机制,推动形成全社会合力促振兴的工作局面;要将重点村建设纳入各地“两整治一提升”专项行动中统筹谋划、统筹部署、统筹推进;要按照工作安排定期摸排检查工作进度质量,加大对年度重点项目建设的推进力度协调解决问题。相关乡镇党委、政府主要负责同志要真正“一级指挥棒”责任,全面抓好各项任务落实。驻村第一书记和工作队要发挥主观能动性,配合村两委班子做好重点村建设和发展。\n\n# （二）严格督查考核。\n重点村建设的督查考核内容全部融入全市“两整治一提升”专项行动的调度、督导、巡行体系,实行“每周调度、两周通报、定期督导、双月察看、年度巡看”工作推进机制。市级层面每年组织人大代表、政协委员对年度项目进行全', 'refusal': None, 'annotations': []}, 'logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 1031, 'completion_tokens': 300, 'total_tokens': 1331, 'prompt_tokens_details': {'cached_tokens': 0, 'audio_tokens': 0}, 'completion_tokens_details': {'reasoning_tokens': 0, 'audio_tokens': 0, 'accepted_prediction_tokens': 0, 'rejected_prediction_tokens': 0}}, 'system_fingerprint': 'fp_4a331a0222'}
+============第5页============
+{'id': 'chatcmpl-CjKvjNQuUBDyvWgmkziIkMKqevDG4', 'object': 'chat.completion', 'created': 1764921251, 'model': 'gpt-4o-2024-08-06', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': '```\n网站地图 关于我们 隐私声明\n\n主办：南昌市人民政府办公厅\n承办：南昌市数字科学研究中心\n地址：南昌市红谷滩区市政府北四楼\n\n政府网站标识码：3601000001\n赣ICP备17015617号\n赣公网安备 36010802000056号\n建议使用1920*1080分辨率浏览器\n```', 'refusal': None, 'annotations': []}, 'logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 1031, 'completion_tokens': 96, 'total_tokens': 1127, 'prompt_tokens_details': {'cached_tokens': 0, 'audio_tokens': 0}, 'completion_tokens_details': {'reasoning_tokens': 0, 'audio_tokens': 0, 'accepted_prediction_tokens': 0, 'rejected_prediction_tokens': 0}}, 'system_fingerprint': 'fp_4a331a0222'}
+2025-12-05 15:54:14,519 - INFO - ========================开始解析文件内容========================
+2025-12-05 15:54:28,422 - INFO - 解析结果:{
+  "summary": "南昌市2023年度乡村振兴重点帮扶村建设实施方案，指导18个重点村开展规划与环境整治工作",
+  "knowledge": [
+    "重点村建设遵循\"先易后难、分步建设、连片打造\"原则",
+    "村庄规划需坚持\"一体规划、近期远程、分步实施\"原则",
+    "产业资金比例不低于整体资金的40%",
+    "实施\"两整治一提升\"专项行动和\"每周调度、两周通报\"督查机制"
+  ],
+  "target_audience": [
+    "公共管理专业学生",
+    "乡村振兴研究者",
+    "地方政府工作人员",
+    "农村发展规划学习者"
+  ],
+  "label": [
+    "乡村振兴",
+    "乡村规划",
+    "公共政策",
+    "农村发展",
+    "政府治理"
+  ]
+}
+2025-12-05 15:54:28,428 - INFO - 总计运行时间: 54.66703240 秒
+2025-12-05 15:56:50,680 - INFO - 收到文件解读请求: C:\Users\mi\Desktop\关于印发《南昌市2023年度“十四五”市级乡村振兴重点帮扶村建设发展实施方案》的通知.pdf,程序开始运行......
+2025-12-05 15:56:50,682 - INFO - 文件类型：pdf
+2025-12-05 15:56:50,686 - INFO - PDF共有: 5 页
+2025-12-05 15:56:51,185 - INFO - 已经处理完PDF文件！
+2025-12-05 15:57:00,732 - INFO - 进度: 1/5 页完成, 耗时 9.547 秒
+2025-12-05 15:57:17,090 - INFO - 进度: 2/5 页完成, 耗时 16.357 秒
+2025-12-05 15:57:29,273 - INFO - 进度: 3/5 页完成, 耗时 12.183 秒
+2025-12-05 15:57:42,513 - INFO - 进度: 4/5 页完成, 耗时 13.239 秒
+2025-12-05 15:57:48,115 - INFO - 进度: 5/5 页完成, 耗时 5.602 秒
+2025-12-05 15:57:48,115 - INFO - 模型读取总耗时: 56.93 秒
+2025-12-05 15:57:48,115 - INFO - 文字提取全部完成!
+2025-12-05 15:57:48,115 - INFO - pdf的解读结果:
+============第1页============
+{'id': 'chatcmpl-CjKyPJ9mXBAjzrOz3wOqJ1MzOi1k0', 'object': 'chat.completion', 'created': 1764921417, 'model': 'gpt-4o-2024-08-06', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': '# 关于印发《南昌市2023年度“十四五”市级乡村振兴重点帮扶村建设发展实施方案》的通知\n\n索引号：A00890--2023-0010  \n主题分类：综合政务  \n发布机构：市乡村振兴局  \n生成日期：2023-02-14  \n文件编号：  \n有效性：有效  \n公开范围：面向全社会  \n公开方式：主动公开  \n\n访问量：38\n\n洪巩固衔接小组办〔2023〕3号', 'refusal': None, 'annotations': []}, 'logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 1031, 'completion_tokens': 118, 'total_tokens': 1149, 'prompt_tokens_details': {'cached_tokens': 0, 'audio_tokens': 0}, 'completion_tokens_details': {'reasoning_tokens': 0, 'audio_tokens': 0, 'accepted_prediction_tokens': 0, 'rejected_prediction_tokens': 0}}, 'system_fingerprint': 'fp_4a331a0222'}
+============第2页============
+{'id': 'chatcmpl-CjKyXAaPSP1LaFBbYwXqxkGxbYZjF', 'object': 'chat.completion', 'created': 1764921425, 'model': 'gpt-4o-2024-08-06', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': '# 关于印发《南昌市2023年度“十四五”市级乡村振兴重点帮扶村建设发展实施方案》的通知\n\n南昌县、进贤县、安义县、新建区、湾里管理局巩固拓展脱贫攻坚成果同乡村振兴有效衔接工作领导小组：\n\n现将《南昌市2023年度“十四五”市级乡村振兴重点帮扶村建设发展实施方案》印发给你们,请认真组织实施。\n\n南昌市巩固拓展脱贫攻坚成果同乡村振兴有效衔接工作领导小组办公室\n\n2023年2月14日\n\n## 南昌市2023年度“十四五”市级乡村振兴重点帮扶村建设发展实施方案\n\n根据《南昌市“十四五”市级乡村振兴重点帮扶村工作实施方案》文件要求,为扎实做好2023年18个“十四五”市级乡村振兴重点帮扶村(以下简称“重点村”)建设发展,特制定本实施方案。\n\n### 一、建设目标\n\n重点村建设坚持“先易后难、分步建设、连片打造”的原则,按照全市“两整治一提升”专项行动的标准和要求,在村庄建设发展过程中,不追求全面覆盖,不搞“大排面', 'refusal': None, 'annotations': []}, 'logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 1031, 'completion_tokens': 300, 'total_tokens': 1331, 'prompt_tokens_details': {'cached_tokens': 0, 'audio_tokens': 0}, 'completion_tokens_details': {'reasoning_tokens': 0, 'audio_tokens': 0, 'accepted_prediction_tokens': 0, 'rejected_prediction_tokens': 0}}, 'system_fingerprint': 'fp_4a331a0222'}
+============第3页============
+{'id': 'chatcmpl-CjKym9hh8pjMfJzQPuQTxGjUZLVo4', 'object': 'chat.completion', 'created': 1764921440, 'model': 'gpt-4o-2024-08-06', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': '# 编制村庄规划\n\n（一）编制村庄规划。重点村五年规划要坚持“一体规划,细远近期,分步骤实施”的原则,注重保持村庄自然生态环境、乡土气息、优美传统文化、文物保护,明确村庄总体规划,因地制宜界定乡村建设规划范围,严格保护农业生产空间和乡村生态空间,不搞大社区和违背村民意愿的大拆大建,不搞“村一面”,不搞高楼景、石路墙景等照搬城市面子和形象工程,引导村民参与规划编制,聘请地方规划专家团队及达人感,有相关成功案例的规划团队,科学编制切合实际、能够执行的五年建设规划。原则上“十四五”期间,重点村的工作重点当中提出村庄环境围绕砖墙拆、同步谋划发展后,愿期苗会发展乡村特色产业,对于有一定产业基础的,可提前谋划实施,确保用于产业增加效益比例不低于整体资金的40%。\n\n（二）整治村庄环境。严格按照《南昌市农业农村“两整治一提升”专项行动三年计划(2022-2024)》明确的“一整四化”和“八有”要求开展农村人居环境整治,大', 'refusal': None, 'annotations': []}, 'logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 1031, 'completion_tokens': 300, 'total_tokens': 1331, 'prompt_tokens_details': {'cached_tokens': 0, 'audio_tokens': 0}, 'completion_tokens_details': {'reasoning_tokens': 0, 'audio_tokens': 0, 'accepted_prediction_tokens': 0, 'rejected_prediction_tokens': 0}}, 'system_fingerprint': 'fp_4a331a0222'}
+============第4页============
+{'id': 'chatcmpl-CjKyzfgQ5gClbpj7R7x2KF9WVm01B', 'object': 'chat.completion', 'created': 1764921453, 'model': 'gpt-4o-2024-08-06', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': '# （一）加强组织领导。\n重点村建设按照“市级指导、县区主导、乡镇实施”的原则组织实施。相关县区党委、政府要明确党委书记（乡村振兴责任制实施办法）相关要求,建立健全乡村振兴责任体系,健全有力的乡村振兴推进机制,推动形成完全社会合力促进乡村振兴的工作格局；要将重点村建设纳入各地“四抓两整治”专项行动中,统一谋划、统筹部署、统一推动;要按照工作安排定期对建设工作进度质量,加大对年度重点项目建设的推进力度,协调解决问题。相关乡镇党委、政府主要负责同志要严格“一级指挥棒”责任,全面抓好各项任务落实。驻村第一书记和工作队要发挥主观能动性,配合材料两委干部做好重点村建设和发展。\n\n# （二）严格督查考核。\n重点村建设按督查考核各层面融入全市“四整治一提升”专项行动的调度、督导、巡评体系,实行“每周调度、两周通报、定期督导、双月察看、年度巡看”工作推进机制。市级层面每年组织人大代表、政协委员对年度项目进行全覆盖调研,视', 'refusal': None, 'annotations': []}, 'logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 1031, 'completion_tokens': 300, 'total_tokens': 1331, 'prompt_tokens_details': {'cached_tokens': 0, 'audio_tokens': 0}, 'completion_tokens_details': {'reasoning_tokens': 0, 'audio_tokens': 0, 'accepted_prediction_tokens': 0, 'rejected_prediction_tokens': 0}}, 'system_fingerprint': 'fp_4a331a0222'}
+============第5页============
+{'id': 'chatcmpl-CjKzAkF4nK9k9nng1XeC10Hcsa5x9', 'object': 'chat.completion', 'created': 1764921464, 'model': 'gpt-4o-2024-08-06', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': '## 网站地图 关于我们 隐私声明\n\n### 主办：\n南昌市人民政府办公室\n\n### 承办：\n南昌市数字科学研究中心\n\n### 地址：\n南昌市红谷滩区市政府北四楼\n\n政府网站标识码：3601000001  \n赣ICP备17015617号  \n赣公网安备 36010802000056号\n\n建议使用1920*1080分辨率浏览器\n\n![矢量图标](https://upload.wikimedia.org/wikipedia/commons/3/3b/Vector_icon.svg)', 'refusal': None, 'annotations': []}, 'logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 1031, 'completion_tokens': 124, 'total_tokens': 1155, 'prompt_tokens_details': {'cached_tokens': 0, 'audio_tokens': 0}, 'completion_tokens_details': {'reasoning_tokens': 0, 'audio_tokens': 0, 'accepted_prediction_tokens': 0, 'rejected_prediction_tokens': 0}}, 'system_fingerprint': 'fp_4a331a0222'}
+2025-12-05 15:57:48,116 - INFO - ========================开始解析文件内容========================
+2025-12-05 15:57:56,706 - INFO - 解析结果:{
+  "summary": "南昌市2023年度乡村振兴重点帮扶村建设实施方案，明确18个重点村的分步建设目标和实施路径。",
+  "knowledge": ["重点村建设遵循'先易后难、分步建设、连片打造'原则", "村庄规划需保持乡土特色，严格保护生态和农业空间", "产业资金投入比例不低于总资金的40%", "建立'市级指导、县区主导、乡镇实施'的组织机制", "实行'每周调度、定期督导、年度巡看'的督查考核制度"],
+  "target_audience": ["公共管理专业学生", "乡村振兴研究者", "基层政策执行人员", "区域发展规划学习者"],
+  "label": ["乡村振兴", "公共政策", "乡村规划", "政府治理", "农村发展"]
+}
+2025-12-05 15:57:56,712 - INFO - 总计运行时间: 66.03192740 秒
+2025-12-05 15:59:13,593 - INFO - 收到文件解读请求: ,程序开始运行......
+2025-12-05 16:05:47,971 - INFO - 收到文件解读请求: ,程序开始运行......
+2025-12-05 16:07:07,108 - INFO - 收到文件解读请求: ,程序开始运行......
+2025-12-05 16:07:22,735 - INFO - 收到文件解读请求: ,程序开始运行......
+2025-12-05 16:09:19,094 - INFO - 收到文件解读请求: C:\Users\mi\Desktop\关于印发《南昌市2023年度“十四五”市级乡村振兴重点帮扶村建设发展实施方案》的通知.pdf,程序开始运行......
+2025-12-05 16:09:19,095 - INFO - 文件类型：pdf
+2025-12-05 16:09:19,100 - INFO - PDF共有: 5 页
+2025-12-05 16:09:19,605 - INFO - 已经处理完PDF文件！
+2025-12-05 16:09:28,629 - INFO - 进度: 1/5 页完成, 耗时 9.024 秒
+2025-12-05 16:09:38,642 - INFO - 进度: 2/5 页完成, 耗时 10.012 秒
+2025-12-05 16:09:45,007 - INFO - 进度: 3/5 页完成, 耗时 6.365 秒
+2025-12-05 16:09:54,376 - INFO - 进度: 4/5 页完成, 耗时 9.369 秒
+2025-12-05 16:09:58,664 - INFO - 进度: 5/5 页完成, 耗时 4.287 秒
+2025-12-05 16:09:58,665 - INFO - 模型读取总耗时: 39.06 秒
+2025-12-05 16:09:58,665 - INFO - 文字提取全部完成!
+2025-12-05 16:09:58,665 - INFO - pdf的解读结果:
+============第1页============
+{'id': 'chatcmpl-CjLAQHidFRmEUHIy2SN9IYfohOqWK', 'object': 'chat.completion', 'created': 1764922162, 'model': 'gpt-4o-2024-08-06', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': '# 南昌市人民政府\n\n搜索您喜欢的...\n\n网站首页 市政府 政务要闻 政务公开 政务服务 互动交流 数据开放 英雄城  \n\n用户中心\n\n您当前所在位置：首页 > 政务公开 > 南昌市政府信息公开 > 决策公开 > 重大决策 > 决策后公开 > 部门重大决策文件\n\n索 引 号： A00890--2023-0010  \n主题分类： 综合政务  \n发布机构： 市乡村振兴局  \n生成日期： 2023-02-14  \n文件编号：   \n有效性： 有效  \n公开范围： 面向全社会  \n公开方式： 主动公开  \n\n## 关于印发《南昌市2023年度“十四五”市级乡村振兴重点帮扶村建设发展实施方案》的通知\n\n访问量：38  \n\n洪甬固倪接小组办﹝2023﹞3号', 'refusal': None, 'annotations': []}, 'logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 1031, 'completion_tokens': 206, 'total_tokens': 1237, 'prompt_tokens_details': {'cached_tokens': 0, 'audio_tokens': 0}, 'completion_tokens_details': {'reasoning_tokens': 0, 'audio_tokens': 0, 'accepted_prediction_tokens': 0, 'rejected_prediction_tokens': 0}}, 'system_fingerprint': 'fp_4a331a0222'}
+============第2页============
+{'id': 'chatcmpl-CjLAbEThdOwgDrgszCAvRihkykW42', 'object': 'chat.completion', 'created': 1764922173, 'model': 'gpt-4o-2024-08-06', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': '# 关于印发《南昌市2023年度“十四五”市级乡村振兴重点帮扶村建设发展实施方案》的通知\n\n南昌县、进贤县、安义县、新建区，湾里管理局巩固拓展脱贫攻坚成果同乡村振兴有效衔接工作领导小组：\n\n现将《南昌市2023年度“十四五”市级乡村振兴重点帮扶村建设发展实施方案》印发给你们,请认真组织实施。\n\n南昌巩固拓展脱贫攻坚成果同乡村\n\n振兴有效衔接工作领导小组办公室\n\n2023年2月14日\n\n南昌市2023年度“十四五”市级乡村振兴重点帮扶村建设发展实施方案\n\n根据《南昌市“十四五”市级乡村振兴重点帮扶村工作实施方案》文件要求,为扎实做好2023年18个“十四五”市级乡村振兴重点帮扶村(以下简称“重点村”)建设发展,特制定本实施方案。\n\n## 一、建设目标\n\n重点村建设坚持“先易后难、分步建设、连片打造”的原则,按照全市“两整治一提升”专项行动的标准和要求,在村庄建设发展过程中,不追求全覆盖,不搞“对标面', 'refusal': None, 'annotations': []}, 'logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 1031, 'completion_tokens': 300, 'total_tokens': 1331, 'prompt_tokens_details': {'cached_tokens': 0, 'audio_tokens': 0}, 'completion_tokens_details': {'reasoning_tokens': 0, 'audio_tokens': 0, 'accepted_prediction_tokens': 0, 'rejected_prediction_tokens': 0}}, 'system_fingerprint': 'fp_4a331a0222'}
+============第3页============
+{'id': 'chatcmpl-CjLAitBq3v8ThdzoHzkxbAtl7hIE0', 'object': 'chat.completion', 'created': 1764922180, 'model': 'gpt-4o-2024-08-06', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': '# 编制村庄规划\n\n重点村五年规划要坚持“一体规划,近期远程,分步实施”的原则,注重保持村庄自然生态环境、乡土气息、优美传统文化、文物保护,明确村庄总体规划,因地制宜界定乡村建设规模范围,严格保护农业生产空间和乡村生态空间,不搞大社区和连村村民意愿的大拆大建,不搞“村十面”,不搞高墙隔离破坏的面子和形象工程,引导村民参与规划编制,聘请涉及到规划亿级以上项目案,有利表成功案例的规划团队,科学编制切合实际、能够执行的五年建设规划。原则上“十四五”期间,重点村的工作重点应中提升人居环境配备玻砖块,同步谋划旅游发展,后期重点发展乡村特色产业;对于有一定产业基础的,可提前谋划实施,确保用于产业的资金比例不低于整体资金的40%。\n\n## 整治村庄环境\n\n严格按照《南昌市农业农村“两整合提升”专项行动三年计划 (2022-2024)》明确的“一整四化”和“八有”要求开展农村人居环境整治,大力开展农村塑料垃圾污染治理,全面完成村庄内卫生', 'refusal': None, 'annotations': []}, 'logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 1031, 'completion_tokens': 300, 'total_tokens': 1331, 'prompt_tokens_details': {'cached_tokens': 0, 'audio_tokens': 0}, 'completion_tokens_details': {'reasoning_tokens': 0, 'audio_tokens': 0, 'accepted_prediction_tokens': 0, 'rejected_prediction_tokens': 0}}, 'system_fingerprint': 'fp_4a331a0222'}
+============第4页============
+{'id': 'chatcmpl-CjLAoH2HN8t29Nyngpk0THfgNBqNv', 'object': 'chat.completion', 'created': 1764922186, 'model': 'gpt-4o-2024-08-06', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': '# (一)加强组织领导。\n重点村建设按照“市级指导、县区主导、乡镇实施”的原则组织实施。相关县区党委、政府要切实落实中央《乡村振兴责任制实施办法》相关要求，建立健全乡村振兴责任体系，整合现有为村的乡村振兴推进机制，推动形成党委全面分力促进乡村振兴的工作格局；要将重点村建设纳入各地“两整治一提升”专项行动中，统筹规划，跟踪、督查、统筹推进；要按照工作安排定期对建设工作进度质量、加大对年度重点项目建设的推进力量协调解决问题。相关乡镇党委、政府主要负责同志要落实“一级指挥棒”责任，全面抓好各项任务落实。驻村第一书记和工作队要发挥其关键功能，配合村两委班子做好重点村建设和发展。\n\n## (二)严格督查考核。\n重点村建设的督查考核要融入全市“两整治一提升”专项行动的督查、督导、巡行体系，实行“每周调度、两周通报、定期督导、双月察看、年度巡看”工作推进机制。市级层面每年组织人大代表、政协委员对年度项目进行全覆盖调', 'refusal': None, 'annotations': []}, 'logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 1031, 'completion_tokens': 300, 'total_tokens': 1331, 'prompt_tokens_details': {'cached_tokens': 0, 'audio_tokens': 0}, 'completion_tokens_details': {'reasoning_tokens': 0, 'audio_tokens': 0, 'accepted_prediction_tokens': 0, 'rejected_prediction_tokens': 0}}, 'system_fingerprint': 'fp_4a331a0222'}
+============第5页============
+{'id': 'chatcmpl-CjLAxsC2bEp9TwOWaf9LbUsjU6e48', 'object': 'chat.completion', 'created': 1764922195, 'model': 'gpt-4o-2024-08-06', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': '# 网站信息\n\n## 主办\n南昌市人民政府办公厅\n\n## 承办\n南昌市数字科学研究中心\n\n## 地址\n南昌市红谷滩区市政府北四楼\n\n## 政府标识\n政府网站标识码：3601000001\n\n## 备案信息\n赣ICP备17015617号\n\n## 备案安全\n赣公网安备 36010802000056号\n\n## 浏览器建议\n建议使用1920*1080分辨率浏览器\n\n## 常用链接\n- 网站地图\n- 关于我们\n- 隐私声明', 'refusal': None, 'annotations': []}, 'logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 1031, 'completion_tokens': 132, 'total_tokens': 1163, 'prompt_tokens_details': {'cached_tokens': 0, 'audio_tokens': 0}, 'completion_tokens_details': {'reasoning_tokens': 0, 'audio_tokens': 0, 'accepted_prediction_tokens': 0, 'rejected_prediction_tokens': 0}}, 'system_fingerprint': 'fp_4a331a0222'}
+2025-12-05 16:09:58,670 - INFO - ========================开始解析文件内容========================
+2025-12-05 16:10:12,641 - INFO - 解析结果:{
+  "summary": "南昌市发布2023年度乡村振兴重点帮扶村建设实施方案，明确发展目标、规划和保障措施。",
+  "knowledge": ["重点村建设坚持先易后难原则，按两整治一提升标准推进", "五年规划需保护生态环境，产业资金占比不低于40%", "组织架构为市级指导、县区主导、乡镇实施的三级体系", "督查考核采取每周调度、双月察看的常态化机制"],
+  "target_audience": ["公共管理专业学生", "乡村振兴研究者", "基层政务工作者", "农村发展项目参与者"],
+  "label": ["乡村振兴", "公共政策", "乡村规划", "政府治理", "农村发展"]
+}
+2025-12-05 16:10:12,648 - INFO - 总计运行时间: 53.55486510 秒

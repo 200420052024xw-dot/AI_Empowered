@@ -1,5 +1,10 @@
-import tomllib
+try:
+    import tomllib  # py>=3.11
+except ImportError:  # py<=3.10
+    import tomli as tomllib
+
 from log.core.logger import get_logger
+
 import shutil
 import time
 import glob

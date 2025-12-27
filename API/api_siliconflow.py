@@ -54,9 +54,10 @@ def view_llm(query):
     })
 
     headers = {
-        'Authorization': f'Bearer {os.getenv('API_KEY_OPENAI')}',
-        'Content-Type': 'application/json'
+        "Authorization": f"Bearer {os.getenv('API_KEY_OPENAI')}",
+        "Content-Type": "application/json",
     }
+
     response = requests.request("POST",os.getenv("BASE_URL_OPENAI") , headers=headers, data=payload)
 
     data = response.json()
